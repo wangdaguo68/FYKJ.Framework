@@ -1,0 +1,13 @@
+D:\开发测试\FYKJ.Framework\FYKJ.Framework\FYKJ.Framework.CacheTests\bin\Debug\FYKJ.Framework.CacheTests.dll
+D:\开发测试\FYKJ.Framework\FYKJ.Framework\FYKJ.Framework.CacheTests\bin\Debug\FYKJ.Framework.CacheTests.pdb
+D:\开发测试\FYKJ.Framework\FYKJ.Framework\FYKJ.Framework.CacheTests\bin\Debug\FYKJ.Framework.Cache.dll
+D:\开发测试\FYKJ.Framework\FYKJ.Framework\FYKJ.Framework.CacheTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\开发测试\FYKJ.Framework\FYKJ.Framework\FYKJ.Framework.CacheTests\bin\Debug\FYKJ.Framework.Config.dll
+D:\开发测试\FYKJ.Framework\FYKJ.Framework\FYKJ.Framework.CacheTests\bin\Debug\FYKJ.Framework.Unity.dll
+D:\开发测试\FYKJ.Framework\FYKJ.Framework\FYKJ.Framework.CacheTests\bin\Debug\FYKJ.Framework.Cache.pdb
+D:\开发测试\FYKJ.Framework\FYKJ.Framework\FYKJ.Framework.CacheTests\bin\Debug\FYKJ.Framework.Config.pdb
+D:\开发测试\FYKJ.Framework\FYKJ.Framework\FYKJ.Framework.CacheTests\bin\Debug\FYKJ.Framework.Unity.pdb
+D:\开发测试\FYKJ.Framework\FYKJ.Framework\FYKJ.Framework.CacheTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\开发测试\FYKJ.Framework\FYKJ.Framework\FYKJ.Framework.CacheTests\obj\Debug\FYKJ.Framework.CacheTests.csprojResolveAssemblyReference.cache
+D:\开发测试\FYKJ.Framework\FYKJ.Framework\FYKJ.Framework.CacheTests\obj\Debug\FYKJ.Framework.CacheTests.dll
+D:\开发测试\FYKJ.Framework\FYKJ.Framework\FYKJ.Framework.CacheTests\obj\Debug\FYKJ.Framework.CacheTests.pdb
